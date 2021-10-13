@@ -1,6 +1,6 @@
 {
   "name": "simple-ts-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a simple TypeScript module.",
   "main": "dist/index.js",
   "directories": {
