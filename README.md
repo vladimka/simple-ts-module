@@ -17,7 +17,7 @@ And published to <code>npm</code>
 
 ### Installing
 ```bash
-npm i simple-ts-module
+npm i @vladimka/simple-ts-module
 ```
 
 ### Tests
