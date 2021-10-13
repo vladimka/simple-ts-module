@@ -1,5 +1,5 @@
 {
-  "name": "simple-ts-module",
+  "name": "@vladimka/simple-ts-module",
   "version": "1.0.2",
   "description": "This is a simple TypeScript module.",
   "main": "dist/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vladimka/simple-ts-module.git"
+    "url": "git://github.com/vladimka/simple-ts-module.git"
   },
   "keywords": [
     "simple",
