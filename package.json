@@ -1,0 +1,21 @@
+{
+  "name": "simple-ts-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec",
+    "postinstall": "gulp build",
+    "build" : "gulp build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "mocha": "^9.1.2",
+    "typescript": "^4.4.4"
+  }
+}
