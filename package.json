@@ -1,6 +1,6 @@
 {
   "name": "@vladimka/simple-ts-module",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "This is a simple TypeScript module.",
   "main": "dist/index.js",
   "directories": {
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "gulp test",
     "build": "gulp build",
-    "postinstall": "gulp build"
+    "postinstall": "tsc -p tsconfig.json"
   },
   "repository": {
     "type": "git",
